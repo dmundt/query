@@ -32,7 +32,7 @@ go get github.com/dmundt/query
 
 ## Quickstart
 
-See [examples](https://godoc.org/github.com/dmundt/query) at godoc.org.
+See [examples](https://godoc.org/github.com/dmundt/query#pkg-examples) at godoc.org.
 
 ## Example
 

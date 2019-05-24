@@ -170,6 +170,10 @@ Executing the query yields the following output:
 }
 ```
 
+## Stability and Compatibility
+
+The query package is considered stable. We will make every effort to ensure API compatibility in future releases.
+
 ## Semantic versioning
 
 Package query uses [semantic versioning](https://semver.org/ "semantic versioning") for satisfying dependency requirements of [Go Modules](https://blog.golang.org/using-go-modules/ "golang modules").

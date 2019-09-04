@@ -30,6 +30,11 @@ jobs:
     - name: Examine
       run: go vet -x ./...
       
+    - name: Lint
+      run: |
+        go get -u golang.org/x/lint/golint
+        test -z "$(golint ./...)"
+      
     - name: Test
       run: go test -v ./...
     

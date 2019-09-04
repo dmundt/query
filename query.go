@@ -1,6 +1,9 @@
 // Copyright 2019 Daniel Mundt. All rights reserved.
 // Use of this source code is governed by a MIT-style
 // license that can be found in the LICENSE file.
+//
+// SPDX-License-Identifier: MIT
+//
 
 // Package query provides primitives for querying slices
 // and user-defined collections.

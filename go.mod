@@ -1,3 +1,3 @@
 module github.com/dmundt/query
 
-go 1.12
+go 1.14

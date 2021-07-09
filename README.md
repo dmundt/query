@@ -185,7 +185,7 @@ Package query is covered by a [MIT](https://github.com/dmundt/query/blob/master/
 ```text
 MIT License
 
-Copyright (c) 2019 Daniel Mundt
+Copyright (c) 2019 - 2021 Daniel Mundt
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
